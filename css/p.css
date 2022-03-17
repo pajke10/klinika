@@ -1,0 +1,15 @@
+@page
+{
+  size:A4 portrait;
+  margin: 0;
+}
+#print-btna
+{
+  display: none;
+  visibility: none;
+}
+#print-btnn
+{
+  display: none;
+  visibility: none;
+}

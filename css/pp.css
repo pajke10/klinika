@@ -1,0 +1,19 @@
+@page
+{
+  size:A4 portrait;
+  margin: 0;
+}
+#ne
+{
+  display: none;
+  visibility: none;
+}
+#print-btn-pedijatar
+{
+  display: none;
+  visibility: none;
+}
+
+#proba{
+	border: none;
+}
